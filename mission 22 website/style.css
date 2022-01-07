@@ -1,0 +1,139 @@
+body{
+    font-family:'Ubuntu', sans-serif;;
+    padding: 0px;
+    margin: 0px;
+}
+
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 60px;
+    padding-top: 55px;
+    padding-bottom: 10px;
+}
+.half-width img {
+    padding-top: 0px;
+    height: 500px;
+    width: 400px;
+    margin-top: -90px;
+    padding: 0px;
+ 
+}
+.color-yellow{
+    color: gold;
+    font-size: 50px;
+}
+.half-width h1{
+    font-size: 40px;
+    padding-top: 0px;
+
+}
+.sideBorder{
+    border-radius: 10%;
+   border-left: 3px solid ;
+   border-image: linear-gradient(180deg, orange, tomato);
+   border-image-slice: 5;
+   padding-left: 10px;
+}
+.anchor-btn{
+    text-decoration: none;
+    background: linear-gradient(50deg, salmon, tomato);
+    padding: 12px 40px;
+
+    color: white;
+    border-radius: 5px;
+    font-weight: 600px;
+}
+.para1{
+    font-size: 20px;
+}
+.h4-1{
+    padding: 30px 0px;
+}
+.color-blue{
+    color: rgb(46, 46, 189);
+    font-size: 40px;
+}
+
+.color-yellow2{
+    font-size: 40px;
+    color: gold;
+}
+.text-center{
+    color: rgb(18, 18, 97);
+    justify-items: left;
+    text-align: left;
+    font-size: 30px;
+    margin-top: 60px;
+}
+.text{
+    margin-top: 50px;
+    padding-top: 50px;
+}
+.cardColumn{
+    display: flex;
+}
+.card1{
+    justify-content: left;
+    text-align: left;
+    background-color: rgb(202, 248, 250);
+    border-radius: 20px;
+    width: 310px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    height: 350px;
+}
+.Cimg1{
+    height: 140px;
+    width: 140px;
+    padding-bottom: 0px;
+    margin: 13px;
+}
+.alignCard{
+    padding-left: 10px;
+}
+
+.Textgap{
+    padding: 25px;
+    padding-top: 0px;
+}
+.TextGap{
+    margin-bottom: 10px;
+}
+.card2{
+    justify-content: center;
+    text-align: left;
+    background-color: rgb(245, 191, 191);
+    border-radius: 20px;
+    width: 310px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    height: 350px;
+}
+.card3{
+    justify-content: center;
+    text-align: left;
+    background-color: rgb(238, 252, 190);
+    border-radius: 20px;
+    width: 310px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    height: 350px;
+}
+.alignLeft{
+    height: 300px;
+    width: 300px;
+    padding-left: 100px;
+}
+.pg3{
+    padding-left: 507px;
+    margin-bottom: -200px;
+    text-align: left;
+
+}
+.para2{
+    padding-left: 507px;
+    height: 100px;
+    width: 500px;
+}
